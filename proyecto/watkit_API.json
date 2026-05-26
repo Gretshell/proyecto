@@ -33,7 +33,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://api.telegram.org/bot8676436127:AAHinYgikGendklc2Z09U72Zrmxpq5fmUjM/sendMessage",
+        "url": "xxx",
         "sendBody": true,
         "specifyBody": "json",
         "jsonBody": "={\n  \"chat_id\": \"-5209230597\",\n  \"text\": \"Nueva tarjeta: {{$json.action.data.card.name}}\"\n}",
